@@ -1,0 +1,17 @@
+awanezumi.png 35x68
+bounspike.png 64x64
+chilleti.png 64x64
+garock.png 125x80
+hakogame.png 64x64
+hoopa-mega.png 96x90
+kolibrary.png 64x64
+mimime.png 64x64
+olfin.png 64x64
+ponku.png 64x64
+quartzeon.png 80x80
+shabo.png 64x64
+shiomagune.png 64x64
+tanpu.png 64x64
+toroika.png 64x64
+totta.png 64x64
+ubausagi.png 64x64

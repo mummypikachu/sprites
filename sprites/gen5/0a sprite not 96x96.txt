@@ -1,0 +1,17 @@
+butterfree-mega.png 81x80
+cheinpao.png 74x58
+chilleti.png 56x56
+chimecho-excir.png 110x120
+hakogame.png 48x48
+hoopa-mega.png 96x90
+ironthorn.png 78x80
+kolibrary.png 48x48
+mimime.png 48x48
+olfin.png 56x56
+ponku.png 48x48
+quartzeon.png 80x80
+shabo.png 56x56
+shiomagune.png 48x48
+tanpu.png 56x56
+toroika.png 64x64
+ubausagi.png 48x48
