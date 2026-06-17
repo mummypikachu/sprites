@@ -1,10 +1,8 @@
 butterfree-mega.png 81x80
 cheinpao.png 74x58
 chimecho-excir.png 110x120
-hakogame.png 48x48
 hoopa-mega.png 96x90
 ironthorn.png 78x80
 olfin.png 56x56
 quartzeon.png 80x80
-shiomagune.png 48x48
 toroika.png 64x64
